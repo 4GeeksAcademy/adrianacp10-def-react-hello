@@ -1,7 +1,6 @@
 import React from "react";
 
 
-
 const Jumbotron = () => {
 	// Here you have to return expected html using the properties being passed to the component
 	return (

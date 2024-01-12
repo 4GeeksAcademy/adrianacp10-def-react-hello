@@ -15,9 +15,6 @@ const Home = () => {
 			</div>
 			<div className="d-flex p-3">
 				<Card />
-				<Card />
-				<Card />
-				<Card />
 			</div>
 		</div>
 
