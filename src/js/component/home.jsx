@@ -2,6 +2,7 @@ import React from "react";
 import Jumbotron from "./jumbotron.js";
 import Card from "./card.js";
 import Navbar from "./navbar.js";
+import Footer from "./footer.js"
 
 //include images into your bundle
 
@@ -15,6 +16,9 @@ const Home = () => {
 			</div>
 			<div className="d-flex p-3">
 				<Card />
+			</div>
+			<div> 
+				<Footer />
 			</div>
 		</div>
 
